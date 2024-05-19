@@ -162,7 +162,7 @@ ON DELETE SET NULL;
 # 7. Lakukan penghapusan data pada tabel dosen
 
 ```
-DELETE FROM dosen WHERE kd_ds = '102';
+DELETE FROM dosen WHERE kd_ds = '103';
 ```
 
 ![gambar](dokumentasi2/ss21.png)
